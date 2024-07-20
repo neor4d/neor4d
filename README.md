@@ -1,10 +1,14 @@
 ![Banner](https://storage.ko-fi.com/cdn/useruploads/post/6960cb1c-7e27-4138-9300-1f99701302c1_github-.png)
 ========================================================================================================================================
 
+### About Me
+
 Fullstack Developer / PHP
 -------------------------
 
-* 🌍  I'm based in Venezuela
+* 🌍  I'm based in Venezuela.
+* 🎓  Actually im studying System Engineering.
+* 🚀  My goal is to live in Japan and work as a programmer.
 
 ### Skills
 
