@@ -1,8 +1,6 @@
 ![Banner](https://storage.ko-fi.com/cdn/useruploads/post/6960cb1c-7e27-4138-9300-1f99701302c1_github-.png)
 ========================================================================================================================================
 
-### About Me
-
 Fullstack Developer / PHP
 -------------------------
 
@@ -66,6 +64,7 @@ Fullstack Developer / PHP
 ### Badges
 
 <b>My GitHub Stats</b>
+----------------------
 
 <a href="http://www.github.com/neor4d"><img src="https://github-readme-stats.vercel.app/api?username=neor4d&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="neor4d's GitHub stats" /></a>
 
@@ -74,6 +73,7 @@ Fullstack Developer / PHP
 <a href="https://github.com/neor4d" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neor4d&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
+--------------
 
 <ul style="list-style-type: none; margin: 0;">
 
