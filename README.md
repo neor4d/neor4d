@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anderson Delgado
+![Banner](https://storage.ko-fi.com/cdn/useruploads/post/6960cb1c-7e27-4138-9300-1f99701302c1_github-.png)
 ========================================================================================================================================
 
 Fullstack Developer / PHP
@@ -11,7 +11,7 @@ Fullstack Developer / PHP
 
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+        <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="36" height="36" alt="JavaScript" />
     </a>
     <a href="https://www.php.net/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
