@@ -11,7 +11,7 @@ Fullstack Developer / PHP
 ### Skills
 
 FrontEnd
--------------------------
+--------
 
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
@@ -33,7 +33,7 @@ FrontEnd
 
 
 BackEnd
--------------------------
+-------
 
 <p align="left">
     <a href="https://www.php.net/" target="_blank" rel="noreferrer">
@@ -48,7 +48,7 @@ BackEnd
 </p>
 
 Other Skills
--------------------------
+------------
 
 <p align="left">
     <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
