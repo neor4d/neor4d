@@ -29,8 +29,11 @@ FrontEnd
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
     </a>
-        <a href="https://es.react.dev/" target="_blank" rel="noreferrer">
+    <a href="https://es.react.dev/" target="_blank" rel="noreferrer">
         <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="36" height="36" alt="React" />
+    </a>
+    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/color/512/sass.png" width="36" height="36" alt="SASS" />
     </a>
 </p>
 
