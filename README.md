@@ -29,8 +29,8 @@ FrontEnd
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
     </a>
-        <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/354528/vue.svg" width="36" height="36" alt="VueJS" />
+        <a href="https://es.react.dev/" target="_blank" rel="noreferrer">
+        <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="36" height="36" alt="React" />
     </a>
 </p>
 
